@@ -20,7 +20,6 @@
 				</c:if>
 				<c:if test="${sessionScope.userid != null && !empty sessionScope.userid }">
 				</c:if>
-			
 		</td>
 	</tr>
 </table>
