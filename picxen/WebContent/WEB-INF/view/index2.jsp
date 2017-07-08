@@ -13,7 +13,7 @@
 <table class="mainBG" width="100%" height="730">
 	<tr>
 		<td  style="color:white; text-align:center;" >
-			<h2>기억들이 공유되는곳</h2>
+			<h2>기억들이 공유되는곳 td를 div로 변경</h2>
 			<h4>다양한 사진을 올려보세요.</h4><br>
 				<c:if test="${sessionScope.userid == null && empty sessionScope.userid }">
 					<a href="${pageContext.request.contextPath}/member/login.do" class="btn btn-start btn-lg" style="color:white; font-weight: bold;">시작하기</a>
