@@ -10,7 +10,7 @@
 	
 </script>
 <!-- 메인포토이미지 -->
-<table class="mainBG" width="100%" height="730" >
+<table class="mainBG" width="100%" height="730">
 	<tr>
 		<td  style="color:white; text-align:center;" >
 			<h2>기억들이 공유되는곳</h2>
